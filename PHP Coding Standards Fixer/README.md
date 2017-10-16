@@ -19,7 +19,7 @@ dry-runPhpCsFixer.sh を、整形したいファイルを引数にして実行�
 例：
 
 ```bash
-./dry-runPhpCsFixer.sh ../../controllers/gnavi_gift/Input.php
+./dry-runPhpCsFixer.sh ../../controller/Hoge.php
 ```
 
 出力例：
