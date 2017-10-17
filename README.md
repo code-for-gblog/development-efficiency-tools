@@ -1,2 +1,5 @@
 # development-efficiency-tools
-続・開発環境支援ツール
+
+[ぐるなびをちょっと良くするエンジニアプログ](http://developers.gnavi.co.jp/)で紹介しています
+
+http://developers.gnavi.co.jp/entry/development-efficiency-4tools-2
